@@ -1,2 +1,2 @@
 # hello-world
-random stuff
+This is my first github commit
